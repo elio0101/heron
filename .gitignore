@@ -220,3 +220,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 results.txt
+idk.txt
+results.txt
+__pycache__/
+.venv/
